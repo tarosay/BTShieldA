@@ -1,2 +1,2 @@
-BTShieldA
-=========
+Wakayama.rbのmrubyボード用Bluetoothシールドです。
+
